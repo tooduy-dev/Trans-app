@@ -1,0 +1,6 @@
+{
+  "name": "MangaLens",
+  "description": "Dịch truyện tranh tự động với lớp phủ tương tác thông minh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

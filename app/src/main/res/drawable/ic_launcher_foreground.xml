@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (canvas is 108dp, center 54, 54) -->
+    <!-- Speech bubble body -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M28,32 C28,26.5 32.5,22 38,22 L70,22 C75.5,22 80,26.5 80,32 L80,62 C80,67.5 75.5,72 70,72 L44,72 L32,84 L34,72 L38,72 C32.5,72 28,67.5 28,62 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,34 C32,29.5 35.5,26 40,26 L68,26 C72.5,26 76,29.5 76,34 L76,60 C76,64.5 72.5,68 68,68 L43,68 L34,77 L35.5,68 L40,68 C35.5,68 32,64.5 32,60 Z" />
+    <!-- Translation symbol: letter A and Asian character / sparkle -->
+    <!-- Letter A -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M44,40 L41,40 L36,54 L39,54 L40.2,50.5 L45.8,50.5 L47,54 L50,54 Z M41,48 L43,42.5 L45,48 Z" />
+    <!-- Translate arrows / sparkles -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M59,38 L60.5,41.5 L64,43 L60.5,44.5 L59,48 L57.5,44.5 L54,43 L57.5,41.5 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M65,51 L66,53.5 L68.5,54.5 L66,55.5 L65,58 L64,55.5 L61.5,54.5 L64,53.5 Z" />
+</vector>
